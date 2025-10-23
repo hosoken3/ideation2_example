@@ -1,0 +1,15 @@
+streamlit
+pandas
+python-docx
+PyPDF2
+streamlit-authenticator
+openai
+google-genai
+chardet
+
+numpy
+sentence-transformers
+pdfplumber
+fugashi
+ipadic
+unidic-lite
